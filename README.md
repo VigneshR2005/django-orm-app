@@ -10,7 +10,7 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
-An Django application is created inside dataproject folder.
+An Django application created inside dataproject folder.
 
 ### STEP 2:
 A python program is written to create a table to store and retrieve data.
